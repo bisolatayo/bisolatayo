@@ -6,4 +6,6 @@ Email address: bisolatayo08@gmail.com
 
 Slack username: bisolatayo 
 
-Course: frontend and design 
+Track: frontend and design 
+
+Course: html,Css,js,ui and ux
